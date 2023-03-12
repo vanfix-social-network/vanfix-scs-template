@@ -6,10 +6,6 @@
 
 ifdef::env-name[:relfilesuffix: .adoc]
 
-## Introduction:
-
-Here you can insert the introduction to your documentation.
-
 ## Table of Contents:
 
 - https://github.com/MarcoSteinke/Arc42-Template/blob/main/docs/1.Introduction_and_Goals.adoc[1. Introduction and Goals]
